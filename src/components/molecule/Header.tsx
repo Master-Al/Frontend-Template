@@ -82,7 +82,7 @@ export default function Header() {
             <Link to="/">Home</Link>
           </div>
           <div className=" block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 pl-2">
-            <Link to="/">Link 1</Link>
+            <Link to="/about">About</Link>
           </div>
           <div className=" block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4 pl-2">
             <Link to="/">Link 2</Link>
